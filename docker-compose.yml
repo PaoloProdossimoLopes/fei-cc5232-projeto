@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  postgresql:
+    image: 'postgres:15.6'
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: cc5232
+    volumes:
+      - ./postgresql_data:/var/lib/postgresql/data
