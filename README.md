@@ -13,5 +13,5 @@
 
 ## Alunos
 
-Paolo Prodossimo Lopes - 22.222.052-7
+Paolo Prodossimo Lopes - 22.222.052-7\
 Gustavo Sesoko Lemos - 22.123.064-2
