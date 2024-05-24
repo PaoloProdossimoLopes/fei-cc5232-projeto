@@ -10,3 +10,8 @@
 4. Rodar o arquivo `script.sql`
 5. Rodar o `seeding.py` que preenche o banco com dados ficticios (insta-le as dependencias antes de rodar o comando)
 6. Rodar o comando de cada query do arquivo `resolucao.sql` separadamente
+
+## Alunos
+
+Paolo Prodossimo Lopes - 22.222.052-7
+Gustavo Sesoko Lemos - 22.123.064-2
